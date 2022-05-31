@@ -1,0 +1,2 @@
+# Variables that contains the user credentials to access Twitter API 
+BEARER_TOKEN= "AAAAAAAAAAAAAAAAAAAAAOSIdAEAAAAAyKhMkGg%2F6Z2oc5HhFlDQAwjAcbg%3DcEeQMqyBHV1ai9PGeTxVw3EZHdUdO2JhHDx9DeyQ8gnVNP7ep6"
